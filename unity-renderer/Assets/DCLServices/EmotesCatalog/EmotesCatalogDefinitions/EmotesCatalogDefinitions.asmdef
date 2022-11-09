@@ -1,0 +1,21 @@
+{
+    "name": "EmotesCatalogDefinitions",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7ac9f9c835ec1084ab35e3f9b176cf1e",
+        "GUID:3b80b0b562b1cbc489513f09fc1b8f69",
+        "GUID:e99faafecbf8dd74d8130597511b9b27",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:343deaaf83e0cee4ca978e7df0b80d21",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
