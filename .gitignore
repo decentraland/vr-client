@@ -1,0 +1,70 @@
+
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+*.cache
+/obj/
+[Bb]uild/
+TestResults/
+Assets/InitTestScene*.unity
+Assets/InitTestScene*.unity.meta
+**/CurrentTestImages/
+unity-renderer/TestResources/VisualTests/
+unity-renderer/Assets/_Downloaded/
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ===================================== #
+# Proto generation system               #
+# ===================================== #
+#Generated/
+bin/
+
+# ===================================== #
+# Visual Studio / MonoDevelop / Rider   #
+# ===================================== #
+ExportedObj/
+.vs/
+.vscode/
+.idea/
+Assets/Plugins/Editor/JetBrains.meta
+Assets/Plugins/Editor/JetBrains/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.tmproj
+*.dwlt
+Assembly-UnityScript.unityProj
+
+
+debug.log
+ab-logs.txt
+Logs/Packages-Update.log
+
+browser-interface/dist
+browser-interface/node_modules
+protocol-gen/node_modules
+unity-renderer/UserSettings/EditorUserSettings.asset
+unity-renderer/ProjectSettings/QualitySettings.asset
+unity-renderer/Assets/TextMesh Pro/Resources/Fonts & Materials/SF-UI-Text-Heavy SDF.asset
+unity-renderer/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+unity-renderer/Assets/TextMesh Pro/Resources/Fonts & Materials/Inter-SemiBold SDF.asset
+unity-renderer/Assets/TextMesh Pro/Resources/Fonts & Materials/Inter-Heavy SDF.asset
+unity-renderer/Assets/TextMesh Pro/Resources/Fonts & Materials/Inter-Bold SDF.asset
+unity-renderer/Assets/Scripts/MainScripts/DCL/KernelConfiguration/KernelConfigTypes.cs
+unity-renderer/Assets/Scripts/MainScripts/DCL/Components/LoadableShapes/NFTShape/Materials/OriginalNFTFrame.mat
+unity-renderer/Assets/Vuplex*
+unity-renderer/MemoryCaptures/**

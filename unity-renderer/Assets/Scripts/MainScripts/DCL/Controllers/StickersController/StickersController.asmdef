@@ -1,0 +1,20 @@
+{
+    "name": "StickersController",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4016c129fc7e2bd4eba9d6ee09f42a69",
+        "GUID:b1087c5731ff68448a0a9c625bb7e52d",
+        "GUID:cc6bfabbfe87b7949aa248893f89ce37",
+        "GUID:343deaaf83e0cee4ca978e7df0b80d21",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

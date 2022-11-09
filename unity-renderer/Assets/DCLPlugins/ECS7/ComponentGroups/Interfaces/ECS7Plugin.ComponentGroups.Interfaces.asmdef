@@ -1,0 +1,20 @@
+{
+    "name": "ECS7Plugin.ComponentGroups.Interfaces",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0a17d39e1dc14c038aa3c6483a185df0",
+        "GUID:9cccce9925d3495d8a5e4fa5b25f54a5",
+        "GUID:4bd423f6dceb67540b5c246ca8cf789b",
+        "GUID:343deaaf83e0cee4ca978e7df0b80d21",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

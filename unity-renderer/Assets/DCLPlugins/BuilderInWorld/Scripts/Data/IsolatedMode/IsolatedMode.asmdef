@@ -1,0 +1,17 @@
+{
+    "name": "IsolatedMode",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6e6a87f97192ec947993f360104e75b7",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
