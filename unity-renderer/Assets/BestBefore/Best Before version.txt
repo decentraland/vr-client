@@ -1,0 +1,16 @@
+Best Before - make your application expire
+
+version 1.4.1
+-- BEST BEFORE COMPONENT --
+FIX: quit time restored
+
+-------------------------------------------------------------------------------------------------------
+
+version 1.4.0
+-- BEST BEFORE COMPONENT --
+ADD: it's now possible to set the expiration time from the first time the application/game was launched
+FIX: some minor fixes
+
+-- EDITOR -- 
+ADD: Custom Editor script
+
