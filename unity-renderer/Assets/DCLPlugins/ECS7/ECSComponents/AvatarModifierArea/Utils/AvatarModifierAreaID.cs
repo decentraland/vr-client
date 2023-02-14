@@ -1,1 +1,0 @@
-public enum AvatarModifierAreaID { HIDE_AVATAR, DISABLE_PASSPORT }
